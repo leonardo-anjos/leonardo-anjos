@@ -9,4 +9,7 @@
     :email:	leodrums11@gmail.com <br>
     :briefcase: LinkedIn: https://linkedin.com/in/leonardoanjoss <br>
   </samp>
+  
+  <br><br>
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leonardo-anjos&hide=contribs,prs)
 </p>
