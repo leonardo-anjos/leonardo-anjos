@@ -9,6 +9,4 @@
     :email:	leodrums11@gmail.com <br>
     :briefcase: https://linkedin.com/in/leonardoanjoss <br>
   </samp>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardo-anjos&show_icons=true&theme=gruvbox">
 </p>
