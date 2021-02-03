@@ -4,8 +4,8 @@
   <samp>
     Hello, I'm Leo! 👋 Brazillian, 24 old <br> 
     Computer Scientist and Software Developer <br> 
-    :heart: big data, cloud computing, chatbot <br>
-    :sparkles: Favorite Tech: Spring, React, Typescript, MongoDB ... <br>
+    :heart: programming, coffee and drums <br>
+    :sparkles: Favorite Tech: Spring Boot, Nodejs, ReactJS, MongoDB ... <br>
     :email:	leodrums11@gmail.com <br>
     :briefcase: https://linkedin.com/in/leonardoanjoss <br>
   </samp>
