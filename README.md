@@ -3,10 +3,9 @@
   <br><br>
   <samp>
     Hello, I'm Leo! 👋 Brazillian, 27 old <br> 
-    Computer Scientist and Software Enginner <br> 
-    :heart: stay with my family, play drums and hackathon <br>
-    :sparkles: actual stack: Nodejs, Nestjs, React, Docker, Grafana, ElasticStack, and more... <br>
-    :email:	leodrums11@gmail.com <br>
-    :briefcase: https://linkedin.com/in/leonardoanjoss <br>
+    daddy, drummer and software engineer <br> 
+    💕 stay with my family, play drums and hackathon <br>
+    🧰 actual stack: Nodejs, Nestjs, React, Docker, Grafana, ElasticStack, and more... <br>
+    💻 https://leonardo-anjos.github.io <br>
   </samp>
 </p>
